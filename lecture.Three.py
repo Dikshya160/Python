@@ -80,7 +80,6 @@
 # num=[1,2,3,2,1]
 # coppy=num.copy()
 # print(coppy)
-
 # coppy.reverse()
 
 # if (num == coppy):
@@ -91,8 +90,7 @@
 
 
 
-num="RAm, shyam, hari "
-
-list=num.split()
-print(list)
-print(type(list))
+# num="RAm, shyam, hari "
+# list=num.split()
+# print(list)
+# print(type(list))
